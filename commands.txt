@@ -1,3 +1,11 @@
 git config --global user.name "username" [to add username]
 
 git config --global user.email "email" [to add emai]
+
+git init [to initiate git]
+
+git status [to list untracked files]
+
+git add -A [add all untracked files to stage area]
+
+git commit -m "commit messege" [to move files to local repository]
